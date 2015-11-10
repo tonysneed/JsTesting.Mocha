@@ -1,0 +1,18 @@
+{
+  "name": "jstesting-mocha",
+  "version": "1.0.0",
+  "description": "Hello JavaScript testing with Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Sneed",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "mocha": "^2.3.3"
+  }
+}
