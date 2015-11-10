@@ -1,4 +1,4 @@
-# Basic ES6 Application
+# Testing JavaScript using Mocha with VS Code
 
 ## Prerequisites
 
