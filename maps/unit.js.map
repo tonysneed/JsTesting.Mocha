@@ -1,0 +1,1 @@
+{"version":3,"sources":["unit.js"],"names":[],"mappings":";;AAAA,OAAO,CAAC,KAAK,GAAG,YAAU;AACzB,KAAI,IAAI,GAAG,aAAa,CAAC;AACzB,QAAO,IAAI,CAAC;CACZ,CAAC","file":"unit.js","sourcesContent":["exports.hello = function(){\n\tlet text = 'Hello World';\n\treturn text;\n};"],"sourceRoot":"/source/"}

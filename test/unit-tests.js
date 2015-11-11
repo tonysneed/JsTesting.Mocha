@@ -1,4 +1,4 @@
-var unit = require('../src/unit')
+var unit = require('../dist/unit')
 var expect = require('../node_modules/chai/chai').expect;
 
 describe('Inline Function Test', function () {

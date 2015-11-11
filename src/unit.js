@@ -1,3 +1,4 @@
 exports.hello = function(){
-	return 'Hello World';
+	let text = 'Hello World';
+	return text;
 };

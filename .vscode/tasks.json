@@ -10,6 +10,11 @@
             "taskName": "run-tests",
             "args": [],
             "isTestCommand": true
+        },
+        {
+            "taskName": "babel",
+            "args": [],
+            "isBuildCommand": true
         }
     ]
 }
